@@ -1,0 +1,19 @@
+{
+  "name": "book-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "npm exec live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lishay Mikhail",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/Slaboym1e/Js_projects"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "rollup": "^4.9.3"
+  }
+}
