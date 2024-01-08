@@ -1,0 +1,17 @@
+.card-list__loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--search-gray);
+    font-size: 16px;
+}
+
+.cardlist h1 {
+    flex-basis: 100%;
+}
+
+.cardlist {
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+}
